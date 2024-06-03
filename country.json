@@ -1,0 +1,328 @@
+{
+    "metadata": {
+        "responseInfo": {
+            "status": 200,
+            "developerMessage": "OK",
+            "userMessage": "",
+            "errorCode": "",
+            "moreInfo": ""
+        },
+        "resultset": {
+            "count": 30,
+            "limit": 30,
+            "offset": 0
+        }
+    },
+    "results": [
+        {
+            "country": "South Korea",
+            "capital_city": "Seoul",
+            "population": 52081799,
+            "official_language": "Korean",
+            "currency": "Korean Republic won (₩)",
+            "url": "https://en.wikipedia.org/wiki/South_Korea",
+            "time_zone": "UTC+9 (Korea Standard Time)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+        },
+        {
+            "country": "Japan",
+            "capital_city": "Tokyo",
+            "population": 125960000,
+            "official_language": "Japanese",
+            "currency": "Japanese yen (¥)",
+            "url": "https://en.wikipedia.org/wiki/Japan",
+            "time_zone": "UTC+9 (Japan Standard Time)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+        },
+        {
+            "country": "Germany",
+            "capital_city": "Berlin",
+            "population": 83166711,
+            "official_language": "German",
+            "currency": "Euro (€)",
+            "url": "https://en.wikipedia.org/wiki/Germany",
+            "time_zone": "UTC+1 (CET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg"
+        },
+        {
+            "country": "France",
+            "capital_city": "Paris",
+            "population": 67407241,
+            "official_language": "French",
+            "currency": "Euro (€)",
+            "url": "https://en.wikipedia.org/wiki/France",
+            "time_zone": "UTC+1 (CET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+        },
+        {
+            "country": "Brazil",
+            "capital_city": "Brasília",
+            "population": 213993437,
+            "official_language": "Portuguese",
+            "currency": "Brazilian real (R$)",
+            "url": "https://en.wikipedia.org/wiki/Brazil",
+            "time_zone": "UTC-3",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
+        },
+        {
+            "country": "Canada",
+            "capital_city": "Ottawa",
+            "population": 38005238,
+            "official_language": "English and French",
+            "currency": "Canadian dollar (C$)",
+            "url": "https://en.wikipedia.org/wiki/Canada",
+            "time_zone": "UTC-5 to UTC-8",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg"
+        },
+        {
+            "country": "Australia",
+            "capital_city": "Canberra",
+            "population": 25687041,
+            "official_language": "English",
+            "currency": "Australian dollar (A$)",
+            "url": "https://en.wikipedia.org/wiki/Australia",
+            "time_zone": "UTC+10 (AEST)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg"
+        },
+        {
+            "country": "China",
+            "capital_city": "Beijing",
+            "population": 1444216107,
+            "official_language": "Mandarin",
+            "currency": "Renminbi (¥)",
+            "url": "https://en.wikipedia.org/wiki/China",
+            "time_zone": "UTC+8",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_China.svg"
+        },
+        {
+            "country": "India",
+            "capital_city": "New Delhi",
+            "population": 1393409038,
+            "official_language": "Hindi and English",
+            "currency": "Indian rupee (₹)",
+            "url": "https://en.wikipedia.org/wiki/India",
+            "time_zone": "UTC+5:30 (IST)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+        },
+        {
+            "country": "United States",
+            "capital_city": "Washington, D.C.",
+            "population": 331893745,
+            "official_language": "None at federal level",
+            "currency": "United States dollar ($)",
+            "url": "https://en.wikipedia.org/wiki/United_States",
+            "time_zone": "UTC-5 to UTC-10",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+        },
+        {
+            "country": "United Kingdom",
+            "capital_city": "London",
+            "population": 67215293,
+            "official_language": "English",
+            "currency": "Pound sterling (£)",
+            "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+            "time_zone": "UTC±0 (GMT)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+        },
+        {
+            "country": "Russia",
+            "capital_city": "Moscow",
+            "population": 145912025,
+            "official_language": "Russian",
+            "currency": "Russian ruble (₽)",
+            "url": "https://en.wikipedia.org/wiki/Russia",
+            "time_zone": "UTC+3 to UTC+12",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+        },
+        {
+            "country": "Mexico",
+            "capital_city": "Mexico City",
+            "population": 126190788,
+            "official_language": "Spanish",
+            "currency": "Mexican peso ($)",
+            "url": "https://en.wikipedia.org/wiki/Mexico",
+            "time_zone": "UTC-5 to UTC-8",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+        },
+        {
+            "country": "Italy",
+            "capital_city": "Rome",
+            "population": 60367477,
+            "official_language": "Italian",
+            "currency": "Euro (€)",
+            "url": "https://en.wikipedia.org/wiki/Italy",
+            "time_zone": "UTC+1 (CET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
+        },
+        {
+            "country": "Spain",
+            "capital_city": "Madrid",
+            "population": 47351567,
+            "official_language": "Spanish",
+            "currency": "Euro (€)",
+            "url": "https://en.wikipedia.org/wiki/Spain",
+            "time_zone": "UTC+1 (CET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+        },
+        {
+            "country": "South Africa",
+            "capital_city": "Pretoria",
+            "population": 59308690,
+            "official_language": "11 languages",
+            "currency": "South African rand (R)",
+            "url": "https://en.wikipedia.org/wiki/South_Africa",
+            "time_zone": "UTC+2 (SAST)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+        },
+        {
+            "country": "Argentina",
+            "capital_city": "Buenos Aires",
+            "population": 45808747,
+            "official_language": "Spanish",
+            "currency": "Argentine peso ($)",
+            "url": "https://en.wikipedia.org/wiki/Argentina",
+            "time_zone": "UTC-3",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        {
+            "country": "Saudi Arabia",
+            "capital_city": "Riyadh",
+            "population": 35340680,
+            "official_language": "Arabic",
+            "currency": "Saudi riyal (SR)",
+            "url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+            "time_zone": "UTC+3",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+        },
+        {
+            "country": "Indonesia",
+            "capital_city": "Jakarta",
+            "population": 276361783,
+            "official_language": "Indonesian",
+            "currency": "Indonesian rupiah (Rp)",
+            "url": "https://en.wikipedia.org/wiki/Indonesia",
+            "time_zone": "UTC+7 to UTC+9",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+        },
+        {
+            "country": "Turkey",
+            "capital_city": "Ankara",
+            "population": 84339067,
+            "official_language": "Turkish",
+            "currency": "Turkish lira (₺)",
+            "url": "https://en.wikipedia.org/wiki/Turkey",
+            "time_zone": "UTC+3",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+        },
+        {
+            "country": "Egypt",
+            "capital_city": "Cairo",
+            "population": 104124440,
+            "official_language": "Arabic",
+            "currency": "Egyptian pound (E£)",
+            "url": "https://en.wikipedia.org/wiki/Egypt",
+            "time_zone": "UTC+2 (EET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+        },
+        {
+            "country": "Nigeria",
+            "capital_city": "Abuja",
+            "population": 206139589,
+            "official_language": "English",
+            "currency": "Nigerian naira (₦)",
+            "url": "https://en.wikipedia.org/wiki/Nigeria",
+            "time_zone": "UTC+1 (WAT)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+        },
+        {
+            "country": "Thailand",
+            "capital_city": "Bangkok",
+            "population": 69799978,
+            "official_language": "Thai",
+            "currency": "Thai baht (฿)",
+            "url": "https://en.wikipedia.org/wiki/Thailand",
+            "time_zone": "UTC+7 (ICT)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+        },
+        {
+            "country": "Pakistan",
+            "capital_city": "Islamabad",
+            "population": 225199937,
+            "official_language": "Urdu and English",
+            "currency": "Pakistani rupee (₨)",
+            "url": "https://en.wikipedia.org/wiki/Pakistan",
+            "time_zone": "UTC+5 (PKT)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+        },
+        {
+            "country": "Bangladesh",
+            "capital_city": "Dhaka",
+            "population": 166303498,
+            "official_language": "Bengali",
+            "currency": "Bangladeshi taka (৳)",
+            "url": "https://en.wikipedia.org/wiki/Bangladesh",
+            "time_zone": "UTC+6 (BST)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+        },
+        {
+            "country": "Iran",
+            "capital_city": "Tehran",
+            "population": 83992949,
+            "official_language": "Persian",
+            "currency": "Iranian rial (﷼)",
+            "url": "https://en.wikipedia.org/wiki/Iran",
+            "time_zone": "UTC+3:30 (IRST)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+        },
+        {
+            "country": "Ukraine",
+            "capital_city": "Kyiv",
+            "population": 41301516,
+            "official_language": "Ukrainian",
+            "currency": "Ukrainian hryvnia (₴)",
+            "url": "https://en.wikipedia.org/wiki/Ukraine",
+            "time_zone": "UTC+2 (EET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+        },
+        {
+            "country": "Poland",
+            "capital_city": "Warsaw",
+            "population": 38386000,
+            "official_language": "Polish",
+            "currency": "Polish złoty (zł)",
+            "url": "https://en.wikipedia.org/wiki/Poland",
+            "time_zone": "UTC+1 (CET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg"
+        },
+        {
+            "country": "Netherlands",
+            "capital_city": "Amsterdam",
+            "population": 17441139,
+            "official_language": "Dutch",
+            "currency": "Euro (€)",
+            "url": "https://en.wikipedia.org/wiki/Netherlands",
+            "time_zone": "UTC+1 (CET)",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+        },
+        {
+            "country": "Chile",
+            "capital_city": "Santiago",
+            "population": 19212362,
+            "official_language": "Spanish",
+            "currency": "Chilean peso ($)",
+            "url": "https://en.wikipedia.org/wiki/Chile",
+            "time_zone": "UTC-4",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+        },
+        {
+            "country": "Colombia",
+            "capital_city": "Bogotá",
+            "population": 50882891,
+            "official_language": "Spanish",
+            "currency": "Colombian peso ($)",
+            "url": "https://en.wikipedia.org/wiki/Colombia",
+            "time_zone": "UTC-5",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+        }
+    ]
+}
